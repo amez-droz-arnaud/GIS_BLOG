@@ -1,4 +1,4 @@
 ---
-title: GIS BLOG
+title: Notes
 ---
 
