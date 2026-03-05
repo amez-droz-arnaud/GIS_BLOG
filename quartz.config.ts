@@ -15,8 +15,13 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
+<<<<<<< HEAD
     locale: "fr-FR",
     baseUrl: "quartz.jzhao.xyz",
+=======
+    locale: "en-US",
+    baseUrl: "notes.amezdroz-gis.com",
+>>>>>>> 989854397543a137179198cee86d82bfef78b3e8
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
